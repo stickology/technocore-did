@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/stickology/technocore-did",
+    "commit": "37ed7134772ff42f85fdfdd19131be7a73a5dce4",
+    "did": "did:key:z6MkhxKnwm8eJxbWKvAnh6Sk4NbzF17NocSKWPdR24qt28X7",
+    "issued_at": 1795549088,
+    "expires_at": 1803325088,
+    "nonce": "6bd769b2f1b482b1450915dcf2a329b3",
+    "signature": "soNGxJQ68Da7jcYwdb8v_cftfjMyoZmuDH2eIVtFzJ_dskPekEVSNb-FJ7KcIR4bAfOi2d6b_eJmzRS96REdAA"
+}
